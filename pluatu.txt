@@ -3,7 +3,7 @@
 3_twinsrv:V1.9
 4_xmlimpo:V1.4
 5_ediosca:V4.6
-6_powerla:V3.1
+6_powerla:V3.2
 7_versoes:V1.7
 8_versoes:V1.8
 ATUAL Veja em: IP_DO_DECO:8888
